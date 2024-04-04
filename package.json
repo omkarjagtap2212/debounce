@@ -1,0 +1,26 @@
+{
+  "name": "debounce",
+  "version": "1.0.0",
+  "description": "npm package for debounce",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omkar jagtap",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkarjagtap2212/debounce.git"
+  },
+  "keywords": [
+    "npm",
+    "debounce",
+    "react",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/omkarjagtap2212/debounce/issues"
+  },
+  "homepage": "https://github.com/omkarjagtap2212/debounce#readme"
+}
